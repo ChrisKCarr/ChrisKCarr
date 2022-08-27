@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hey, I'm [Chris Carr](https://www.christopherkcarrdev.com/), an experienced Full Stack Developer and coding fanatic. I have several years of experience working in the IT field on a wide range of technologies and projects. My passion for software development lies within the ability to create anything I put my mind to, I am constantly sharpening my skills daily and have a very strict work ethic.
 
