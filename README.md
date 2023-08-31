@@ -6,13 +6,6 @@ Hey, I'm [Chris Carr](https://christophercarr.dev/), an experienced Full Stack D
 
 💼 any freelance work? Contact me, [email](mailto:chriskcarrdev@gmail.com)
 
-<a href="https://www.linkedin.com/in/christopherkcarr/">
-  <img align="left" alt="Chris' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-<br />
-
 
 **languages and tools:**
 
